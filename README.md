@@ -1,8 +1,5 @@
 # internship-scam-review-portal
 Java Servlet JSP Internship &amp; Scam Review Portal using Oracle Database
-# Internship & Scam Review Portal
-
-A Java Web Application built using Servlets, JSP, JDBC and Oracle Database.
 
 ## Features
 
